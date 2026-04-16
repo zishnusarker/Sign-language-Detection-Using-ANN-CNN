@@ -247,14 +247,6 @@ J and Z are **dynamic signs** requiring motion (J traces a curve, Z traces a zig
 
 ## 📄 License
 
-This project is available as open source.
+This project is available as open source. <strong>Understanding why architecture matters in deep learning </strong>
 
 ---
-
-<p align="center">
-  Made with ❤️ as a B.Tech 7th Semester Final Year Project
-</p>
-
-<p align="center">
-  <strong>Understanding why architecture matters in deep learning 🧠</strong>
-</p>
